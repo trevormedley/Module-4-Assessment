@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "quote": "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth;",
+      "author": "Robert Frost",
+      "likes": 0,
+      "dislikes": 0,
+      "imageURL" : "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk0MTY5OTI0NjU4Mjk4/gettyimages-82587359.jpg"
+    },
+    {
+      "id": 2,
+      "quote": "Spread love everywhere you go.",
+      "author": "Mother Teresa",
+      "likes": 0,
+      "dislikes": 0,
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mutter_Teresa_von_Kalkutta.jpg/1200px-Mutter_Teresa_von_Kalkutta.jpg"
+    },
+    {
+      "id": 3,
+      "quote": "You define your own life. Don’t let other people write your script.",
+      "author": "Oprah Winfrey",
+      "likes": 0,
+      "dislikes": 0,
+      "imageURL" : "https://variety.com/wp-content/uploads/2015/12/oprah-variety-power-of-women-charity.jpg"
+    },
+    {
+      "id": 4,
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "likes": 0,
+      "dislikes": 0,
+      "imageURL" : "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2OTQwNDAzNDUxNTAz/gettyimages-51390778.jpg"
+    },
+    {
+      "id": 5,
+      "quote": "There is nothing impossible to they who will try.",
+      "author": "Alexander the Great",
+      "likes": 0,
+      "dislikes": 0,
+      "imageURL" : "https://www.biography.com/.image/t_share/MTgyMDgyNzYzMTI4NzEwNDcy/gettyimages-463906803sq.jpg"
+    }
+    
+  ]
